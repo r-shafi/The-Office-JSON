@@ -1,0 +1,52 @@
+{
+  "charecters": [
+    {
+      "name": "Michael Scott",
+      "actor": "Steve Carell",
+      "image": "https://media.giphy.com/media/keuNoOuTb1D4A/giphy.gif",
+      "quote": "That's what she said!"
+    },
+    {
+      "name": "Dwight Schrute",
+      "actor": "Rainn Wilson",
+      "image": "https://media.giphy.com/media/GoOvkH8xaODZK/giphy.gif",
+      "quote": "And I did not become a Lackawanna County volunteer sheriff’s deputy to make friends. And by the way, I haven’t"
+    },
+    {
+      "name": "Jim Halpert",
+      "actor": "John Krasinski",
+      "image": "https://media.giphy.com/media/ZwBiSBq92zbEY/giphy.gif",
+      "quote": "I miss Dwight. Congratulations, universe. You win."
+    },
+    {
+      "name": "Pam Beesly",
+      "actor": "Jenna Fischer",
+      "image": "https://media.giphy.com/media/TvS0ScUjWLqbC/giphy.gif",
+      "quote": "I DON’T CARE WHAT THEY SAY ABOUT ME. I JUST WANT TO EAT."
+    },
+    {
+      "name": "Ryan Howard",
+      "actor": "B. J. Novak",
+      "image": "https://media.giphy.com/media/nUiHcOsMu7WPm/giphy.gif",
+      "quote": "I’M SUCH A PERFECTIONIST THAT I’D KINDA RATHER NOT DO IT AT ALL THAN DO A CRAPPY VERSION."
+    },
+    {
+      "name": "Andy Bernard",
+      "actor": "Ed Helms",
+      "image": "https://media.giphy.com/media/AWsaQDZW2Vrjy/giphy.gif",
+      "quote": "Andy Bernard does not lose contests. He wins them. Or he quits them. Because they're unfair."
+    },
+    {
+      "name": "Kevin Malone",
+      "actor": "Brian Baumgartner",
+      "image": "https://media.giphy.com/media/QItLfsafwiRS8/giphy.gif",
+      "quote": "I DO DESERVE A VACATION. SOMETIMES BATMAN’S GOT TO TAKE OFF HIS CAPE"
+    },
+    {
+      "name": "Creed Bratton",
+      "actor": "Creed Bratton",
+      "image": "https://media.giphy.com/media/sXGn8YIg7nbBC/giphy.gif",
+      "quote": "I Already Won The Lottery, I Was Born In The U-S Of A, Baby"
+    }
+  ]
+}
